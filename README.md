@@ -13,7 +13,8 @@ settings, skills and transcripts. Packaged as a Claude Code skill.
 /plugin marketplace add m-podlesny/claude-desktop-multi-instance
 ```
 
-Then invoke `/claude-desktop-instance` and say what you want the new instance called.
+
+Then invoke `/add-claude-desktop-instance` and say what you want the new instance called.
 
 ## What it does
 
