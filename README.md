@@ -1,5 +1,7 @@
 # claude-desktop-multi-instance
 
+<img width="1644" height="1152" alt="image" src="https://github.com/user-attachments/assets/a478d102-6b99-43a5-b35e-b2bf389a1d3c" />
+
 Run multiple Claude Desktop instances on Windows, each with its own account, MCP connectors,
 settings, skills and transcripts. Packaged as a Claude Code skill.
 
