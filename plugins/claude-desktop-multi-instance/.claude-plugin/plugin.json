@@ -1,0 +1,10 @@
+{
+  "name": "claude-desktop-multi-instance",
+  "version": "1.0.0",
+  "description": "One installation, so every instance keeps auto-updating - but separate Claude accounts, MCP connectors, settings, skills, transcripts and Cowork files. Builds the launcher and explains how the paths fit together.",
+  "author": { "name": "Mateusz Podlesny" },
+  "repository": "https://github.com/m-podlesny/claude-desktop-multi-instance",
+  "license": "MIT",
+  "keywords": ["claude-desktop", "windows", "multi-account", "instances", "electron"],
+  "skills": ["./skills/"]
+}

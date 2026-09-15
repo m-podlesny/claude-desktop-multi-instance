@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "m-podlesny",
+  "description": "Run multiple Claude Desktop instances on Windows. One installation, so every instance keeps auto-updating - but separate Claude accounts, MCP connectors, settings, skills, transcripts and Cowork files.",
+  "owner": {
+    "name": "Mateusz Podlesny",
+    "url": "https://github.com/m-podlesny"
+  },
+  "plugins": [
+    {
+      "name": "claude-desktop-multi-instance",
+      "description": "One installation, so every instance keeps auto-updating - but separate Claude accounts, MCP connectors, settings, skills, transcripts and Cowork files. Builds the launcher and explains how the paths fit together.",
+      "source": "./plugins/claude-desktop-multi-instance",
+      "homepage": "https://github.com/m-podlesny/claude-desktop-multi-instance"
+    }
+  ]
+}
